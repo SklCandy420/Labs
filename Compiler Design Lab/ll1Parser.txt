@@ -1,0 +1,8 @@
+E TQ
+Q +TQ
+Q 0
+T FR
+R *FR
+R 0
+F s
+F (E)
