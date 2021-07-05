@@ -59,6 +59,7 @@ int main()
 
             stringstream conv(matrix[currState][input]);
             conv >> currState;
+            cout << currState << ",";
             if (currState == -1)
             {
                 break;

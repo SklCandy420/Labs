@@ -23,10 +23,8 @@ void reverseNumberWithoutReturn(int n)
 
 int main()
 {
-
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-
+    cout << "Syed Mohammad Raza(18BCS056)"
+         << "\n";
     cout << "Enter the number : ";
     int no;
     cin >> no;

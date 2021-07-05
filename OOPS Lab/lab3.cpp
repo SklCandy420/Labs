@@ -31,6 +31,8 @@ int counter::objectDestroyed;
 
 int main()
 {
+    cout << "Syed Mohammad Raza(18BCS056)"
+         << "\n";
 
     {
         counter *count1 = new counter();
@@ -44,5 +46,5 @@ int main()
         counter::info();
         delete count2;
         counter::info();
-        }
+    }
 }
