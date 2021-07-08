@@ -7,7 +7,7 @@ def gcd(a, b):
     return a
 
 
-def generatePvtk(p, q):
+def generateKeys(p, q):
     n = p * q
     phi = (p - 1) * (q - 1)
     e = 0
@@ -54,7 +54,7 @@ def iost(it):
     return string
 
 
-pubk, pvtk = generatePvtk(53, 59)
+pubk, pvtk = generateKeys(53, 59)
 
 enc = []
 for i in stoi("Syed Mohammad Raza"):
@@ -62,6 +62,7 @@ for i in stoi("Syed Mohammad Raza"):
 
 print(pubk)
 print(pvtk)
+print("<------------------Encrypted Message------------------>")
 print(enc)
 
 dec = []
@@ -69,5 +70,5 @@ for i in enc:
     dec.append(decrypt(i, pvtk))
 
 dec = iost(dec)
-
+print("<------------------Decrypted Message------------------>")
 print(dec)

@@ -1,0 +1,6 @@
+Student 1
+15
+Student 2
+56
+Student 3
+69
