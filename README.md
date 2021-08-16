@@ -1,2 +1,2 @@
 # Labs
-Networking,OOPS,Compiler Design Lab
+Networking,OOPS,Compiler Design Lab & Embedded Lab
