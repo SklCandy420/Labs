@@ -1,0 +1,19 @@
+Name, GiveBirth,Can Fly,Live in Water,Have Legs,Have wings, Class (O/P)
+human, yes, no, no, yes, No, mammals
+python, no, no, no, no, No, non-mammals
+salmon, no, no, yes, no, No, non-mammals
+whale, yes, no, yes, no, No, mammals
+frog, no, no, sometimes, yes, No, non-mammals
+komodo, no, no, no, yes, No, non-mammals
+bat, yes, yes, no, yes, Yes, mammals
+pigeon, no, yes, no, yes, Yes, non-mammals
+cat, yes, no, no, yes, No, mammals
+leopard shark, yes, no, yes, no, No, non-mammals
+turtle, no, no, sometimes, yes, No, non-mammals
+penguin, no, no, sometimes, yes, Yes, non-mammals
+porcupine, yes, no, no, yes, No, mammals
+eel, no, no, yes, no, No, non-mammals
+salamander, no, no, sometimes, yes, No, non-mammals
+gila monster, no, no, no, yes, No, non-mammals
+platypus, no, no, no, yes, No, mammals
+owl, no, yes, no, yes, Yes, non-mammals
