@@ -44,7 +44,7 @@ b = y_intercept(x_val, y_val, m)
 
 reg_line = [(m * x) + b for x in x_val]
 
-
+# ys_o:orginal , ys_l:generated
 def err_square(ys_o, ys_l):
     return sum((ys_l - ys_o) ** 2)
 
