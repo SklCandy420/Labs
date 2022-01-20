@@ -1,0 +1,8 @@
+0,Short forms that include "." should be taken care.
+1,3) Tokenize the corpus into sentences and print the sentences and sentence count.
+2,Assign each sentence a unique id.
+3,4) Prepare a new document by removing the duplicate sentences or multiple instances of a sentence.
+4,Display the document.
+5,2) Calculate the size of vocabulary.
+6,Write a python program to load a sample text corpus file and perform the following operation:
+1) Tokenize the corpus into words and print the words and word count.

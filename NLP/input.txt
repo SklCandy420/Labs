@@ -1,0 +1,5 @@
+Write a python program to load a sample text corpus file and perform the following operation:
+1) Tokenize the corpus into words and print the words and word count.
+2) Calculate the size of vocabulary.
+3) Tokenize the corpus into sentences and print the sentences and sentence count. Short forms that include "." should be taken care.
+4) Prepare a new document by removing the duplicate sentences or multiple instances of a sentence. Assign each sentence a unique id. Display the document.
